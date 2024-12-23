@@ -4,7 +4,7 @@ Formula:
 
 **IoU = Area of Overlap / Area of Union**
 
-**Area of Overlap:** The area where the predicted bounding box/mask and the ground truth box/mask intersect.
+**Area of Overlap:** The area where the predicted bounding box/mask and the ground truth box/mask intersect.   
 **Area of Union:** The total area covered by both the predicted and ground truth boxes/masks.
 
 **Range of IoU**
